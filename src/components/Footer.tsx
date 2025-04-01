@@ -24,10 +24,10 @@ const Footer = () => {
               Andhra Pradesh
             </address>
             <p className="text-gray-400 mt-2">
-              Phone: <a href="tel:8309703260" className="hover:text-primary-400">8309703260</a>
+              Phone: <a href="tel:1234567890" className="hover:text-primary-400">1234567890</a>
             </p>
             <p className="text-gray-400">
-              Email: <a href="mailto:vijayyerra9@gmail.com" className="hover:text-primary-400">vijayyerra9@gmail.com</a>
+              Email: <a href="mailto:spicyhavens@gmail.com" className="hover:text-primary-400">spicyhavens@gmail.com</a>
             </p>
           </div>
           
