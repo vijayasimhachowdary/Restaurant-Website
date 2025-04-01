@@ -143,7 +143,7 @@ export const menuData: MenuCategory[] = [
             name: 'Maaza',
             price: 40,
             description: 'Refreshing mango drink (300ml)',
-            image: 'https://cdn.shopify.com/s/files/1/0522/0125/9183/products/CEVKqm0Ytm_grande.jpg?v=1640977534',
+            image: 'https://fetchnbuy.in/cdn/shop/files/download_897bd777-3b81-4923-abd7-aaa4577efa78.jpg?v=1725625509',
           },
         ],
       },
