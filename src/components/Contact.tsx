@@ -25,7 +25,7 @@ const Contact = () => {
               <Phone className="w-6 h-6 text-primary-600" />
               <div>
                 <h3 className="font-semibold text-gray-800 mb-1">Phone</h3>
-                <a href="tel:8309703260" className="text-gray-600 hover:text-primary-600">
+                <a href="tel:1234567890" className="text-gray-600 hover:text-primary-600">
                   1234567890
                 </a>
               </div>
@@ -35,7 +35,7 @@ const Contact = () => {
               <Mail className="w-6 h-6 text-primary-600" />
               <div>
                 <h3 className="font-semibold text-gray-800 mb-1">Email</h3>
-                <a href="mailto:vijayyerra9@gmail.com" className="text-gray-600 hover:text-primary-600">
+                <a href="mailto:spicyheavens@gmail.com" className="text-gray-600 hover:text-primary-600">
                   spicyheavens@gmail.com
                 </a>
               </div>
