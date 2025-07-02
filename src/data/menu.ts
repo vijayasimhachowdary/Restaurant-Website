@@ -23,7 +23,7 @@ export const menuData: MenuCategory[] = [
             name: 'Prawn Biryani',
             price: 300,
             description: 'Flavorful biryani with fresh prawns and aromatic spices',
-            image: 'https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaheen_Ali/CHETTINAD_STYLE_PRAWN_BIRYANI.jpg',
+            image: 'https://yellowchilis.com/wp-content/uploads/2021/01/prawn-biryani-shrimp-biryani-eral-biriyani-in-one-pot.jpg',
           },
           {
             name: 'Pulao with Chicken Curry',
@@ -46,7 +46,7 @@ export const menuData: MenuCategory[] = [
             name: 'Special Curd Rice',
             price: 120,
             description: 'Creamy curd rice with tempering and mixed vegetables',
-            image: 'https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Roop/curd_rice_with_mint_flavour_recipe.jpg',
+            image: 'https://www.yellowthyme.com/wp-content/uploads/2019/04/South-indian-curd-rice-08751.jpg',
           },
         ],
       },
