@@ -74,7 +74,7 @@ export const menuData: MenuCategory[] = [
             name: 'Prawn Biryani',
             price: 300,
             description: 'Flavorful biryani with fresh prawns and aromatic spices',
-            image: 'https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaheen_Ali/CHETTINAD_STYLE_PRAWN_BIRYANI.jpg',
+            image: 'https://yellowchilis.com/wp-content/uploads/2021/01/prawn-biryani-shrimp-biryani-eral-biriyani-in-one-pot.jpg',
           },
           {
             name: 'Pulao with Chicken Curry',
