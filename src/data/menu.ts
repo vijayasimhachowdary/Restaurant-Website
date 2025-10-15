@@ -131,7 +131,7 @@ export const menuData: MenuCategory[] = [
             name: 'Thums Up',
             price: 40,
             description: 'Strong taste of Thums Up (300ml)',
-            image: 'https://www.pngkey.com/png/full/404-4044799_cold-drink-thums-up.png',
+            image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Thum%27s_Up_%2815124224444%29.jpg/250px-Thum%27s_Up_%2815124224444%29.jpg',
           },
           {
             name: 'Coca Cola',
