@@ -11,7 +11,7 @@ export const menuData: MenuCategory[] = [
             name: 'Chicken Biryani',
             price: 250,
             description: 'Aromatic basmati rice cooked with tender chicken and special spices',
-            image: 'https://images.unsplash.com/photo-1642821373181-696a54913e93?auto=format&fit=crop&q=80&w=2070',
+            image: 'https://cdn.pixabay.com/photo/2023/10/19/11/18/biryani-8326234_1280.jpg',
           },
           {
             name: 'Mutton Biryani',
@@ -23,7 +23,7 @@ export const menuData: MenuCategory[] = [
             name: 'Prawn Biryani',
             price: 300,
             description: 'Flavorful biryani with fresh prawns and aromatic spices',
-            image: 'https://yellowchilis.com/wp-content/uploads/2021/01/prawn-biryani-shrimp-biryani-eral-biriyani-in-one-pot.jpg',
+            image: 'https://cdn.pixabay.com/photo/2021/09/25/18/54/dish-6655595_1280.jpg',
           },
           {
             name: 'Pulao with Chicken Curry',
@@ -62,7 +62,7 @@ export const menuData: MenuCategory[] = [
             name: 'Chicken Biryani',
             price: 250,
             description: 'Aromatic basmati rice cooked with tender chicken and special spices',
-            image: 'https://images.unsplash.com/photo-1642821373181-696a54913e93?auto=format&fit=crop&q=80&w=2070',
+            image: 'https://cdn.pixabay.com/photo/2023/10/19/11/18/biryani-8326234_1280.jpg',
           },
           {
             name: 'Mutton Biryani',
@@ -74,7 +74,7 @@ export const menuData: MenuCategory[] = [
             name: 'Prawn Biryani',
             price: 300,
             description: 'Flavorful biryani with fresh prawns and aromatic spices',
-            image: 'https://yellowchilis.com/wp-content/uploads/2021/01/prawn-biryani-shrimp-biryani-eral-biriyani-in-one-pot.jpg',
+            image: 'https://cdn.pixabay.com/photo/2021/09/25/18/54/dish-6655595_1280.jpg',
           },
           {
             name: 'Pulao with Chicken Curry',
