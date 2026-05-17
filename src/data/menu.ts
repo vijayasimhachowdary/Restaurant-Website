@@ -17,7 +17,7 @@ export const menuData: MenuCategory[] = [
             name: 'Mutton Biryani',
             price: 350,
             description: 'Traditional biryani with succulent mutton pieces',
-            image: 'https://paattiskitchen.com/wp-content/uploads/2023/03/kmc_20230323_230743.jpg',
+            image: 'https://cdn.pixabay.com/photo/2024/01/18/17/20/ai-generated-8517258_1280.jpg',
           },
           {
             name: 'Prawn Biryani',
