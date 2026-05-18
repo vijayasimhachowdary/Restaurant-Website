@@ -11,7 +11,7 @@ export const menuData: MenuCategory[] = [
             name: 'Chicken Biryani',
             price: 250,
             description: 'Aromatic basmati rice cooked with tender chicken and special spices',
-            image: '',
+            image: 'https://cdn.pixabay.com/photo/2023/10/19/11/18/biryani-8326234_1280.jpg',
           },
           {
             name: 'Mutton Biryani',
